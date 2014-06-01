@@ -1,4 +1,4 @@
-var time = 0;
+var time = 620;
 var working = true;
 var isPaused = true;
 
@@ -21,7 +21,7 @@ function startTime(){
 
 function ascertainZero(i){
 	if(i==="0" || i==="00" || i==="000") return 0;
-	else return i;
+	else return parseInt(i);
 }
 
 function incrementTime(){
