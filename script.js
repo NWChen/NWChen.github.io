@@ -1,4 +1,4 @@
-var time = 620;
+var time = 0;
 var working = true;
 var isPaused = true;
 
