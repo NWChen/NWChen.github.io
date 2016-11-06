@@ -3,10 +3,12 @@ $font-main-color: #2a2a2a;
 $font-main-size: 150%;
 $font-light: #34373a;
 $font-ultra-light: #4f5154;
+$background-ultra-light: #ecf0f1;
 $h1-size: 400%;
 $div-main-color: #aaaaaa;
 
 body {
+	background-color: $background-ultra-light;
 	font: 100% $font-main;
 	color: $font-main-color;
 }
