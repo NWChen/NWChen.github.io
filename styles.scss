@@ -1,0 +1,62 @@
+$font-main: Open Sans, sans-serif;
+$font-main-color: #2a2a2a;
+$font-main-size: 150%;
+$font-light: #34373a;
+$font-ultra-light: #4f5154;
+$h1-size: 400%;
+$div-main-color: #aaaaaa;
+
+body {
+	font: 100% $font-main;
+	color: $font-main-color;
+}
+
+h1 {
+	text-align: left;
+	font-size: $h1-size;
+}
+
+p {
+	font-size: $font-main-size;
+}
+
+.container-fluid {
+	min-height: 100%;
+	min-height: 100vh;	
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.col-md-6 {
+	margin: auto;
+	width: 50%;
+	border: 2px solid $div-main-color;
+	padding: 20px;
+}
+
+.gap {
+	display: inline-block;
+	width: 30px;
+}
+
+.left-panel {
+	padding: 30px;
+	p {
+		text-align: justify;
+		text-justify: inter-word;
+	}
+}
+
+.right-panel {
+	padding: 40px;
+	text-align: right;
+	.light {
+    	color: $font-light;
+	}
+
+	.ultra-light {
+   		color: $font-ultra-light;
+	}
+}
