@@ -20,20 +20,20 @@ p {
   margin: auto;
   width: 50%;
   border: 2px solid #aaaaaa;
-  padding: 20px; }
+  padding: 20%; }
 
 .gap {
   display: inline-block;
-  width: 30px; }
+  width: 30%; }
 
 .left-panel {
-  padding: 30px; }
+  padding: 30%; }
   .left-panel p {
     text-align: justify;
     text-justify: inter-word; }
 
 .right-panel {
-  padding: 40px;
+  padding: 40%;
   text-align: right; }
   .right-panel .light {
     color: #34373a; }

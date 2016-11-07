@@ -33,16 +33,16 @@ p {
 	margin: auto;
 	width: 50%;
 	border: 2px solid $div-main-color;
-	padding: 20px;
+	padding: 20%;
 }
 
 .gap {
 	display: inline-block;
-	width: 30px;
+	width: 30%;
 }
 
 .left-panel {
-	padding: 30px;
+	padding: 30%;
 	p {
 		text-align: justify;
 		text-justify: inter-word;
@@ -50,7 +50,7 @@ p {
 }
 
 .right-panel {
-	padding: 40px;
+	padding: 40%;
 	text-align: right;
 	.light {
     	color: $font-light;
