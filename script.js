@@ -12,7 +12,7 @@ function handleOrientation(event) {
 		document.getElementById('alpha').innerHTML = alpha;
 		console.log(alpha);	
 	}
-
+/*
 	if(event.beta != beta) {
 		beta = event.beta;
 		document.getElementById('beta').innerHTML = beta;
@@ -24,4 +24,5 @@ function handleOrientation(event) {
 		document.getElementById('gamma').innerHTML = gamma;
 		console.log(gamma);
 	}
+*/
 }
