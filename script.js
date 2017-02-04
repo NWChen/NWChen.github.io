@@ -1,9 +1,8 @@
 window.addEventListener("deviceorientation", handleOrientation, true);
 
-var alpha = 0;
-var beta = 0;
-var gamma = 0;
-
+var alpha = -1;
+var beta = -1;
+var gamma = -1;
 
 function handleOrientation(event) {
 	var absolute = event.absolute;
