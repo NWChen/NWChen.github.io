@@ -12,13 +12,13 @@ function handleOrientation(event) {
 		document.getElementById('alpha').innerHTML = alpha;
 		console.log(alpha);	
 	}
-/*
+
 	if(event.beta != beta) {
 		beta = event.beta;
 		document.getElementById('beta').innerHTML = beta;
 		console.log(beta);
 	}	
-
+/*
 	if(event.gamma != gamma) {
 		gamma = event.gamma;
 		document.getElementById('gamma').innerHTML = gamma;
