@@ -1,0 +1,7 @@
+<div class="row" id="header">
+    {{ range .Site.RegularPages }}
+        <div class="column nav-person">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </div>
+    {{ end }}
+</div>

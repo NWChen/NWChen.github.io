@@ -1,0 +1,23 @@
+<html>
+    {{ partial "header.html" . }}
+
+    <body>
+        <div class="container">
+            <div id="main">
+                {{ partial "navbar.html" . }}
+
+                <div class="row">
+                    <div class="column">
+                        <h1>DELIGHT.</h1>
+                        <p class="subtext">ADI is all about growth. Part of our mission is to grow the CS community. The other part is to grow you. <strong><a href="{{ .Site.BaseURL }}secret/">Stay delightful.</a></strong></p>
+                    </div>
+                    
+                    <div class="column column-75">
+                    </div>
+                </div>
+            </div>
+
+            {{ partial "footer.html" . }}
+        </div>
+    </body>
+</html>

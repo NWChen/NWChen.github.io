@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    padding: 0.2em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+h2 {
+    color: #947CB0;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+}
+
+/* Classes */
+.avatar {
+    border-radius: 50%;
+}
+.column {
+    text-align: center;
+}
+.subtext {
+    padding: 0.2em;
+}
+
+/* IDs */
+#header {
+    padding: 1em 0;
+}
+#footer {
+    font-family: 'Lato', 'sans-serif';
+    font-size: 0.8em;
+    height: 50px;
+}
+#main {
+    min-height: 100%;
+    margin-bottom: -50px;
+}
+#nav-target {
+    padding: 1em 0;
+}
