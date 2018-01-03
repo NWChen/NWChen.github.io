@@ -1,0 +1,4 @@
+baseURL = "neilchen.co/"
+languageCode = "en-us"
+title = "Neil Chen"
+publishDir = "../dist"

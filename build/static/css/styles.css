@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Pontano+Sans');
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #F9F9F9;
+}
+
+hr {
+    border-color: #4183D7;
+    margin: 3rem auto;
+    width: 6rem;
+}
+
+img {
+    border-radius: 50%;
+    filter: grayscale(99%);
+    width: 80%;
+}
+
+h1 {
+    color: #2F3539;
+    font-family: 'Pontano Sans', 'Lato', sans-serif;
+    font-size: 4rem;
+    font-weight: bold; 
+}
+
+p {
+    color: #2F3539;
+}
+
+a {
+    text-decoration: underline;
+}
+a:hover {
+    color: #446CB3;
+}
+
+#darken {
+    color: #2E3135;
+}
+
+.column {
+    margin: 0 2rem;
+}
+
+.highlight {
+    color: #4183D7;
+}
+
+.vertical-center {
+    min-height: 100%; /* Fallback for browsers not supporting vh */
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.space {
+    margin: 2rem 0;
+}
+
+.left {
+    text-align: center;
+}
+
+.left p {
+    margin: 0;
+}
+
+.right {
+    margin: 0 auto;
+}
