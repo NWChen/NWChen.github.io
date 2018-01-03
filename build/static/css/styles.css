@@ -23,6 +23,14 @@ h2 {
     font-family: 'Pontano Sans', 'Lato', sans-serif;
     font-size: 2rem;
     font-weight: bold;
+    margin: 0.5rem auto;
+}
+
+h3 {
+    color: #2E3135;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.7rem;
+    letter-spacing: 0.02rem;
     margin-bottom: 1rem;
 }
 
