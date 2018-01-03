@@ -11,12 +11,6 @@ hr {
     width: 6rem;
 }
 
-img {
-    border-radius: 50%;
-    filter: grayscale(99%);
-    width: 80%;
-}
-
 h1 {
     color: #2F3539;
     font-family: 'Pontano Sans', 'Lato', sans-serif;
@@ -24,11 +18,21 @@ h1 {
     font-weight: bold; 
 }
 
+h2 {
+    color: #2F3539;
+    font-family: 'Pontano Sans', 'Lato', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
 p {
     color: #2F3539;
+    margin: 0 auto;
 }
 
 a {
+    color: #4183D7;
     text-decoration: underline;
 }
 a:hover {
@@ -39,12 +43,14 @@ a:hover {
     color: #2E3135;
 }
 
-.column {
-    margin: 0 2rem;
+#profile {
+    border-radius: 50%;
+    filter: grayscale(99%);
+    width: 80%;
 }
 
-.highlight {
-    color: #4183D7;
+.column {
+    margin: 0 2rem;
 }
 
 .vertical-center {
