@@ -39,6 +39,9 @@ p {
     margin: 0 auto;
 }
 
+i {
+    color: #4183D7;
+}
 a {
     color: #4183D7;
     text-decoration: underline;
@@ -82,4 +85,10 @@ a:hover {
 
 .right {
     margin: 0 auto;
+}
+
+.lang {
+  font-family: 'Courier New', 'serif';
+  font-size: 80%;
+  letter-spacing: 0;
 }
