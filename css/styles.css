@@ -1,8 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Pontano+Sans');
-@import url('https://fonts.googleapis.com/css?family=Cambo');
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+}
+@font-face {
+	font-family: "Computer Modern";
+	src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
+	font-weight: bold;
+}
+@font-face {
+	font-family: "Computer Modern";
+	src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
+	font-style: italic, oblique;
+}
+@font-face {
+	font-family: "Computer Modern";
+	src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
+	font-weight: bold;
+	font-style: italic, oblique;
+}
 
 body {
-    font-family: 'Cambo', serif;
+    font-family: 'Computer Modern', serif;
     background-color: #F9F9F9;
 }
 
@@ -14,14 +34,14 @@ hr {
 
 h1 {
     color: #2F3539;
-    font-family: 'Cambo', 'Pontano Sans', 'Lato', sans-serif;
+    font-family: 'Computer Modern', 'Pontano Sans', 'Lato', sans-serif;
     font-size: 4rem;
     font-weight: bold; 
 }
 
 h2 {
     color: #2F3539;
-    font-family: 'Cambo', 'Pontano Sans', 'Lato', sans-serif;
+    font-family: 'Computer Modern', 'Pontano Sans', 'Lato', sans-serif;
     font-size: 2rem;
     font-weight: bold;
     margin: 0.5rem auto;
@@ -29,7 +49,7 @@ h2 {
 
 h3 {
     color: #2E3135;
-    font-family: 'Cambo', 'Lato', sans-serif;
+    font-family: 'Computer Modern', 'Lato', sans-serif;
     font-size: 1.7rem;
     letter-spacing: 0.02rem;
     margin-bottom: 1rem;
