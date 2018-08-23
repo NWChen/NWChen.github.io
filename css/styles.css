@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Lato|Pontano+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato|Merriweather+Sans|Pontano+Sans');
 
 body {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Pontano Sans', sans-serif;
+    font-weight: 200;
     background-color: #F9F9F9;
 }
 
