@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Neil Chen</title>
-    <link>http://nwchen.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Neil Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://nwchen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Soft muscle characterization</title>
-      <link>http://nwchen.github.io/posts/published/</link>
+      <link>/posts/published/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://nwchen.github.io/posts/published/</guid>
+      <guid>/posts/published/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s published! For several months in college I worked with Professor Hod Lipson&amp;rsquo;s &lt;a href=&#34;https://www.creativemachineslab.com/&#34;&gt;Creative Machines Lab&lt;/a&gt; on building a &amp;ldquo;soft actuator&amp;rdquo;. The goal was to build an electrically-powered &amp;ldquo;muscle&amp;rdquo; geometry out of silicone; our approach was to drive contraction and expansion thermally.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Diary analysis</title>
-      <link>http://nwchen.github.io/posts/diary/</link>
+      <link>/posts/diary/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://nwchen.github.io/posts/diary/</guid>
+      <guid>/posts/diary/</guid>
       <description>&lt;p&gt;I wrote 39,000+ words across 223 entries in my diary in the last 1.5 years. Could I learn more about my mood/emotions by analyzing my diary? I wrote some Python to find out.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Building a T-shirt shooting robot</title>
-      <link>http://nwchen.github.io/posts/tshirt/</link>
+      <link>/posts/tshirt/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nwchen.github.io/posts/tshirt/</guid>
+      <guid>/posts/tshirt/</guid>
       <description>&lt;p&gt;T-shirt shooters often depend on compressed gases to rapidly eject rolled-up shirts. We wanted to experiment with a completely electric system, and make use of some of the raw materials and scrap electronics we’d accumulated over time.&lt;/p&gt;</description>
     </item>
     
