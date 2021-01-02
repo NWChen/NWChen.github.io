@@ -13,7 +13,7 @@
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://nwchen.github.io/posts/published/</guid>
-      <description>&lt;p&gt;For several months in college I worked with Professor Hod Lipson&amp;rsquo;s &lt;a href=&#34;https://www.creativemachineslab.com/&#34;&gt;Creative Machines Lab&lt;/a&gt; on building a &amp;ldquo;soft actuator&amp;rdquo;. The goal was to build an electrically-powered &amp;ldquo;muscle&amp;rdquo; geometry out of silicone; our approach was to drive contraction and expansion thermally.&lt;/p&gt;</description>
+      <description>&lt;p&gt;It&amp;rsquo;s published! For several months in college I worked with Professor Hod Lipson&amp;rsquo;s &lt;a href=&#34;https://www.creativemachineslab.com/&#34;&gt;Creative Machines Lab&lt;/a&gt; on building a &amp;ldquo;soft actuator&amp;rdquo;. The goal was to build an electrically-powered &amp;ldquo;muscle&amp;rdquo; geometry out of silicone; our approach was to drive contraction and expansion thermally.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://nwchen.github.io/posts/tshirt/</guid>
-      <description>&lt;p&gt;I’ve been wanting to work on a big, heavy, powerful project for a while. T-shirt shooters often depend on compressed gases to rapidly eject rolled-up shirts. We wanted to experiment with a completely electric system, and make use of some of the raw materials and scrap electronics we’d accumulated over time.&lt;/p&gt;</description>
+      <description>&lt;p&gt;T-shirt shooters often depend on compressed gases to rapidly eject rolled-up shirts. We wanted to experiment with a completely electric system, and make use of some of the raw materials and scrap electronics we’d accumulated over time.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -42,6 +42,15 @@
       <guid>http://nwchen.github.io/about/</guid>
       <description>I&amp;rsquo;m a programmer from Queens, NY. I&amp;rsquo;m interested in cooking, finance, hip hop, MMA, and woodworking. I work on equities trading software at Goldman Sachs in NYC.
 I currently live in Jersey City, NJ.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://nwchen.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nwchen.github.io/projects/</guid>
+      <description> heckell, a programming language for expressing algorithms in set notation. Bin-picking &amp;amp; manipulation for the FetchIt Challenge. Visualizing search/sort algorithms with a 2-axis custom robot at HackCU (we won 1st place!) A book-scanning robot with Gilad Penn at HackMIT (we won 2nd place!)  </description>
     </item>
     
     <item>
