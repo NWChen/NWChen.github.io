@@ -3,61 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>nwchen.github.io/categories/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2021/01/07/genki-sudo/</loc>
+    <loc>nwchen.github.io/note/2021/01/07/genki-sudo/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>nwchen.github.io/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/physical/</loc>
+    <loc>nwchen.github.io/note/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>nwchen.github.io/categories/physical/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020/06/15/a-paper-on-soft-muscle-actuation/</loc>
+    <loc>nwchen.github.io/post/2020/06/15/a-paper-on-soft-muscle-actuation/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/analytical/</loc>
+    <loc>nwchen.github.io/categories/analytical/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</loc>
+    <loc>nwchen.github.io/post/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>nwchen.github.io/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/creative/</loc>
+    <loc>nwchen.github.io/categories/creative/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2016/12/01/building-a-t-shirt-shooting-robot/</loc>
+    <loc>nwchen.github.io/post/2016/12/01/building-a-t-shirt-shooting-robot/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>nwchen.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>nwchen.github.io/tags/</loc>
   </url>
   
 </urlset>

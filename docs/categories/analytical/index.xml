@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>analytical on Neil Chen</title>
-    <link>/categories/analytical/</link>
+    <link>nwchen.github.io/categories/analytical/</link>
     <description>Recent content in analytical on Neil Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/analytical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="nwchen.github.io/categories/analytical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A paper on soft-muscle actuation</title>
-      <link>/post/2020/06/15/a-paper-on-soft-muscle-actuation/</link>
+      <link>nwchen.github.io/post/2020/06/15/a-paper-on-soft-muscle-actuation/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020/06/15/a-paper-on-soft-muscle-actuation/</guid>
+      <guid>nwchen.github.io/post/2020/06/15/a-paper-on-soft-muscle-actuation/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s published! For several months in college I worked with Professor Hod Lipson&amp;rsquo;s &lt;a href=&#34;https://www.creativemachineslab.com/&#34;&gt;Creative Machines Lab&lt;/a&gt; on building a &amp;ldquo;soft actuator&amp;rdquo;. The goal was to build an electrically-powered &amp;ldquo;muscle&amp;rdquo; geometry out of silicone; our approach was to drive contraction and expansion thermally.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Analyzing 1.5 years of diary entries</title>
-      <link>/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</link>
+      <link>nwchen.github.io/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</guid>
+      <guid>nwchen.github.io/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</guid>
       <description>&lt;p&gt;I wrote 39,000+ words across 223 entries in my diary in the last 1.5 years. Could I learn more about my mood/emotions by analyzing my diary? I wrote some Python to find out.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Building a T-shirt shooting robot</title>
-      <link>/post/2016/12/01/building-a-t-shirt-shooting-robot/</link>
+      <link>nwchen.github.io/post/2016/12/01/building-a-t-shirt-shooting-robot/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/2016/12/01/building-a-t-shirt-shooting-robot/</guid>
+      <guid>nwchen.github.io/post/2016/12/01/building-a-t-shirt-shooting-robot/</guid>
       <description>&lt;p&gt;T-shirt shooters often depend on compressed gases to rapidly eject rolled-up shirts. We wanted to experiment with a completely electric system, and make use of some of the raw materials and scrap electronics we’d accumulated over time.&lt;/p&gt;</description>
     </item>
     
