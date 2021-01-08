@@ -1,4 +1,4 @@
-baseURL = "nwchen.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "Neil Chen"
 theme = "hugo-xmin"
