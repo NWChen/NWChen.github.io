@@ -15,7 +15,7 @@ Before all this, Sudo was a professional mixed martial artist. He fought in seve
 
 and ended every fight carrying the flag of his motto, _"We Are All One"_:
 
-![](https://cdn.shopify.com/s/files/1/0223/2205/3192/files/a28a0f982708434d809658a928369b6a.jpg?v=1558987097)
+[<img src="https://thumbs.gfycat.com/PolishedReasonableCommongonolek-max-1mb.gif" style="width:320px;height:240px;">]()
 
 I think Sudo is especially interesting, though, for the way he moves. Sudo started wrestling in high-school, and later moved to the United States where he attained a Brazilian Jiu-Jitsu black belt (a level of very high expertise).
 
