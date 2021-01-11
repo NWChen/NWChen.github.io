@@ -23,10 +23,10 @@ During his UFC debut at UFC 38 at the Royal Albert Hall in London, Sudo faced of
 
 [<img src="https://45.media.tumblr.com/f3f17add92d8dfdd593d2fcd2dc8df03/tumblr_metxa3QI4F1ry1rm7o1_250.gif" style="width:320px;height:240px;">]()
 
-In this position, Remedios (on the bottom) is having to carry most of Sudo's bodyweight. This position is exhausting and disadvantageous for Remedios. Remedios attempts to escape, using the cage to try to invert on top of Sudo.
+Now Remedios (on the bottom) has to Sudo's bodyweight. Remedios attempts to escape, using the cage to try to invert on top of Sudo.
 
-Sudo sprawls, switches positions, and almost instantly locks himself onto Remedios's back, where he achieves a rear naked choke:
+Sudo sprawls, switches positions, and almost instantly locks himself onto Remedios's back, where he gets the rear naked choke:
 
 [<img src="https://i620.photobucket.com/albums/tt286/mbullions/Genkirnc.gif" style="width:320px;height:240px;">]()
 
-I don't know much too much about grappling, but nonetheless this is just _mwah_ beautiful. Sudo floats so quickly around his opponent, anticipating Remedios's moves and eliminating escapes Remedios could reasonably achieve. Just seconds after threatening a choke on Remedios, Sudo gets up, bows to his opponent, and casually chats with him. I just like that stuff.
+It's just _mwah_ beautiful, the way Sudo floats so quickly around his opponent. Just seconds after threatening a choke on Remedios, Sudo gets up, bows to his opponent, and casually chats with him.
