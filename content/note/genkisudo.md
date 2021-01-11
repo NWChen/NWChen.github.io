@@ -10,8 +10,8 @@ Genki Sudo is a member of the upper house of Japan's bicameral legislature. West
 Before all this, Sudo was a professional mixed martial artist. He fought in several promotions, but in every arena he introduced himself idiosyncratically. Sudo choreographed WWE-like entrances that included:
 
 - himself doing the robot with a KFC bucket hat,
+- himself as a baseball player,
 - himself in Samurai garb,
-- himself in "Neo-Samurai" garb
 
 and ended every fight carrying the flag of his motto, _"We Are All One"_:
 
@@ -23,7 +23,7 @@ During his UFC debut at UFC 38 at the Royal Albert Hall in London, Sudo faced of
 
 [<img src="https://45.media.tumblr.com/f3f17add92d8dfdd593d2fcd2dc8df03/tumblr_metxa3QI4F1ry1rm7o1_250.gif" style="width:320px;height:240px;">]()
 
-Now Remedios (on the bottom) has to Sudo's bodyweight. Remedios attempts to escape, using the cage to try to invert on top of Sudo.
+Now Remedios (on the bottom) has to carry Sudo's bodyweight. Remedios attempts to escape, using the cage to try to invert on top of Sudo.
 
 Sudo sprawls, switches positions, and almost instantly locks himself onto Remedios's back, where he gets the rear naked choke:
 
