@@ -30,7 +30,7 @@ menu:
 
 params:
   description: ""
-  footer: "[Github](https://github.com/nwchen)"
+  footer: "[Github](https://github.com/nwchen) | [LinkedIn](https://www.linkedin.com/in/neilwchen/)"
 
 markup:
   goldmark:
