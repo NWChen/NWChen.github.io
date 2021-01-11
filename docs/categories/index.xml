@@ -17,20 +17,20 @@
     </item>
     
     <item>
-      <title>creative</title>
-      <link>/categories/creative/</link>
-      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/creative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>analytical</title>
       <link>/categories/analytical/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/analytical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>creative</title>
+      <link>/categories/creative/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/creative/</guid>
       <description></description>
     </item>
     
