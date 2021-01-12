@@ -29,6 +29,6 @@ I live with 3 other people and the shoe storage situation was becoming overcrowd
 
 My roommate was about to throw away his desk. It's one of those desks you buy off the internet -- the legs are made of thin-walled aluminum, and the surface is OSB with veneer glued on ([OSB is a composite of wood flakes glued and compressed together](https://en.wikipedia.org/wiki/Oriented_strand_board)). He kindly gave it to me before it went to the dumpster. 
 
-We can't do any reliable joinery with OSB (it just falls apart), so I made one long rip cut along the board's length. That surface makes for a nice shelf, e.g. for holding a Baby Yoda:
+The desk isn't itself long enough to support our TV, and it's supported by a welded frame that doesn't lend itself to extending easily. Instead I'm using more 1.5" fir (there's a sale on) and recycling some of the fasteners. We can't do any reliable joinery with OSB (it just falls apart), so I made one long rip cut along the board's length. That surface makes for a nice shelf, e.g. for holding a Baby Yoda:
 
 [<img src="/img/wood/6.jpg" style="width:320px;height:240px;">]()
