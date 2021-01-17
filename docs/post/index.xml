@@ -14,7 +14,8 @@
       
       <guid>/post/2021/01/16/vim-repl-makes-me-happy/</guid>
       <description>One of the tools I wish I&amp;rsquo;d known about sooner is vim-repl. It&amp;rsquo;s a vim plugin that opens an interactive REPL, configurable based on source file type (.py, .hs, .scala, &amp;hellip;)
-I used to run this workflow using SLIME and tmux. Before that, if I wanted a development environment with a tight feedback loop between writing &amp;amp; evaluating code, I defaulted to a Jupyter notebook &amp;ndash; which, for this purpose, is probably both the wrong tool to use and often (for me) unsustainable.</description>
+ A REPL, or read-eval-print-loop, lets you input, evaluate, and output expressions without having to (for example) compile an entire program.
+ I used to run this workflow using SLIME and tmux. Before that, if I wanted a development environment with a tight feedback loop between writing &amp;amp; evaluating code, I defaulted to a Jupyter notebook &amp;ndash; which, for this purpose, is probably both the wrong tool to use and often (for me) unsustainable.</description>
     </item>
     
     <item>
