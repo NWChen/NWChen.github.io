@@ -1,5 +1,5 @@
 ---
-title: "Jessie's baked creations!"
+title: Jessie's baked creations!
 ---
 
 # Lemon meringue cupcakes
