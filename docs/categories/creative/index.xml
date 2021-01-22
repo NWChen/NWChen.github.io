@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>creative on Neil Chen</title>
+    <link>/categories/creative/</link>
+    <description>Recent content in creative on Neil Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/creative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hand tools and spare time</title>
+      <link>/note/2021/01/11/hand-tools-and-spare-time/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/note/2021/01/11/hand-tools-and-spare-time/</guid>
+      <description>If you, with no prior training, picked up a 1/2&amp;quot; chisel, a handsaw, a rubber mallet, and a Home Depot bench plane, you&amp;rsquo;d arrive at a reasonable approximation of my 2020.
+Workbench This is a hastily-made workbench/work-from-home standing desk. The legs are 3.5&amp;quot; douglas fir and joined via mortise-and-tenon. The top surface is 1.5&amp;quot; thick fir. Half-finished:
+
+To handle racking, there are three chunky sections of pine joined by cross laps to the legs of the bench.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing 1.5 years of diary entries</title>
+      <link>/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</guid>
+      <description>&lt;p&gt;I wrote 39,000+ words across 223 entries in my diary in the last 1.5 years. Could I learn more about my mood/emotions by analyzing my diary? I wrote some Python to find out.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building a T-shirt shooting robot</title>
+      <link>/post/2016/12/01/building-a-t-shirt-shooting-robot/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/12/01/building-a-t-shirt-shooting-robot/</guid>
+      <description>&lt;p&gt;T-shirt shooters often depend on compressed gases to rapidly eject rolled-up shirts. We wanted to experiment with a completely electric system, and make use of some of the raw materials and scrap electronics we’d accumulated over time.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
