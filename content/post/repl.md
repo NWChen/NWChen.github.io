@@ -1,5 +1,5 @@
 ---
-title: vim-repl makes me happy
+title: Tools I love: vim-repl 
 date: 2021-01-16
 categories:
   - analytical
