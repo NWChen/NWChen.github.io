@@ -1,6 +1,12 @@
 ---
 title: Jessie's baked creations!
 ---
+# Lemon, blueberry, and greek yogurt olive oil cake
+## 01/24/21
+
+![](/img/bakes/12.jpg)
+
+---
 
 # Banana bread
 ## 01/23/21 
