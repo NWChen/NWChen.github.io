@@ -1,7 +1,7 @@
 ---
 title: Jessie's baked creations!
 ---
-# Lemon, blueberry, and greek yogurt olive oil cake
+# Lemon, blueberry, and greek yogurt whole wheat almond cake
 ## 01/24/21
 
 ![](/img/bakes/12.jpg)
