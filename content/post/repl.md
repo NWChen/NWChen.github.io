@@ -1,5 +1,5 @@
 ---
-title: Tools I love, vim-repl 
+title: vim-repl workflow
 date: 2021-01-16
 categories:
   - analytical

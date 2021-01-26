@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tools I love, vim-repl</title>
-      <link>/post/2021/01/16/tools-i-love-vim-repl/</link>
+      <title>vim-repl workflow</title>
+      <link>/post/2021/01/16/vim-repl-workflow/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021/01/16/tools-i-love-vim-repl/</guid>
+      <guid>/post/2021/01/16/vim-repl-workflow/</guid>
       <description>One of the tools I wish I&amp;rsquo;d known about sooner is vim-repl. It&amp;rsquo;s a vim plugin that opens an interactive REPL, configurable based on source file type (.py, .hs, .scala, &amp;hellip;)
  A REPL, or read-eval-print-loop, lets you input, evaluate, and output expressions without having to (for example) compile an entire program.
  I used to run this workflow using SLIME and tmux. Before that, if I wanted a development environment with a tight feedback loop between writing &amp;amp; evaluating code, I defaulted to a Jupyter notebook &amp;ndash; which, for this purpose, is probably both the wrong tool to use and often (for me) unsustainable.</description>
@@ -57,15 +57,6 @@ Before all this, Sudo was a professional mixed martial artist. He fought in seve
       
       <guid>/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</guid>
       <description>&lt;p&gt;I wrote 39,000+ words across 223 entries in my diary in the last 1.5 years. Could I learn more about my mood/emotions by analyzing my diary? I wrote some Python to find out.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Building a T-shirt shooting robot</title>
-      <link>/post/2016/12/01/building-a-t-shirt-shooting-robot/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2016/12/01/building-a-t-shirt-shooting-robot/</guid>
-      <description>&lt;p&gt;T-shirt shooters often depend on compressed gases to rapidly eject rolled-up shirts. We wanted to experiment with a completely electric system, and make use of some of the raw materials and scrap electronics we’d accumulated over time.&lt;/p&gt;</description>
     </item>
     
     <item>

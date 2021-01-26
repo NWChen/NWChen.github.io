@@ -28,14 +28,5 @@ To handle racking, there are three chunky sections of pine joined by cross laps 
       <description>&lt;p&gt;I wrote 39,000+ words across 223 entries in my diary in the last 1.5 years. Could I learn more about my mood/emotions by analyzing my diary? I wrote some Python to find out.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Building a T-shirt shooting robot</title>
-      <link>/post/2016/12/01/building-a-t-shirt-shooting-robot/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2016/12/01/building-a-t-shirt-shooting-robot/</guid>
-      <description>&lt;p&gt;T-shirt shooters often depend on compressed gases to rapidly eject rolled-up shirts. We wanted to experiment with a completely electric system, and make use of some of the raw materials and scrap electronics we’d accumulated over time.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
