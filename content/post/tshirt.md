@@ -1,5 +1,5 @@
 ---
-title: T-shirt shooting robot
+title: Building a T-shirt shooting robot
 date: 2017-01-01
 categories:
   - creative
@@ -11,8 +11,8 @@ I have an amateur and casual interest in robotics, from mechanical design to gra
 
 We spent a few months on-and-off between CAD, the machine shop, and our laptops. Here's a linear actuator we designed to be powered by a `12V` car window motor:
 
-![](/img/3.gif)
+![](/img/serge/3.gif)
 
 The whole assembly in CAD was built from several hundred custom & stock assets:
 
-![](/img/2.gif)
+![](/img/serge/2.gif)
