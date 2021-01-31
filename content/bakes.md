@@ -11,6 +11,8 @@ title: Jessie's baked creations!
 ## 01/30/21
 ![](/img/bakes/14.jpg)
 
+![](/img/bakes/15.jpg)
+
 ---
 
 # Lemon, blueberry, and greek yogurt whole wheat almond cake
