@@ -14,10 +14,14 @@ Ian Goodfellow's name is now roughly synonymous with "deep learning", but he des
 
 [The full interview (I strongly recommend reading it).](https://veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
 
+--
+
 ## Alex Roth
 A TA for an introductory computer science course at Columbia University:
 
 ![](/img/roth.jpg)
+
+--
 
 ## Personal note
 
