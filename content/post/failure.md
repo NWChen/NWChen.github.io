@@ -10,7 +10,7 @@ This is a running list of some of my favorite accounts of personal rejection or 
 ---
 
 ## Ian Goodfellow
-Ian Goodfellow's name is now roughly synonymous with "deep learning", but he describes plenty of personal risks, subsequent failures, and post-facto views on them:
+Ian Goodfellow's name is now roughly synonymous with deep learning, but he describes plenty of personal risks, subsequent failures, and post-facto views on them:
 
 > I once applied for a summer internship with a Stanford professor. My transcript was included in my application. He replied “Why do you have an A in my class?” It turned out I wasn’t actually meant to have an A in his class. I thought there had been a generous curve, but there had only been a computer glitch. The result of my internship application was that Stanford downgraded my transcript.
 
