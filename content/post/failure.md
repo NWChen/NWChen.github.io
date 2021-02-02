@@ -5,7 +5,6 @@ categories:
   - physical
 ---
 
-# Accounts of personal failure
 This is a running list of some of my favorite accounts of personal rejection or failure (narrowly: in school and in tech).
 
 ---
