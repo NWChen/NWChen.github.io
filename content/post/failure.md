@@ -5,7 +5,8 @@ categories:
   - physical
 ---
 
-# My favorite accounts of personal failure (in tech)
+# Accounts of personal failure
+This is a running list of some of my favorite accounts of personal rejection or failure (narrowly: in school and in tech).
 
 ## Ian Goodfellow
 Ian Goodfellow's name is now roughly synonymous with "deep learning", but he describes plenty of personal risks, subsequent failures, and post-facto views on them:
@@ -14,14 +15,14 @@ Ian Goodfellow's name is now roughly synonymous with "deep learning", but he des
 
 [The full interview (I strongly recommend reading it).](https://veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
 
---
+---
 
 ## Alex Roth
 A TA for an introductory computer science course at Columbia University:
 
 ![](/img/roth.jpg)
 
---
+---
 
 ## Personal note
 
