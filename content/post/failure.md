@@ -8,6 +8,8 @@ categories:
 # Accounts of personal failure
 This is a running list of some of my favorite accounts of personal rejection or failure (narrowly: in school and in tech).
 
+---
+
 ## Ian Goodfellow
 Ian Goodfellow's name is now roughly synonymous with "deep learning", but he describes plenty of personal risks, subsequent failures, and post-facto views on them:
 
