@@ -19,9 +19,12 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Categories
-      url: "categories/"
+    - name: Recs
+      url: "recs/"
       weight: 3
+#    - name: Categories
+#      url: "categories/"
+#      weight: 3
 #    - name: Tags
 #      url: "tags/"
 #      weight: 4
