@@ -14,6 +14,10 @@ title = "Recs"
 - [The Right Stuff](https://www.goodreads.com/book/show/8146619-the-right-stuff) by Tom Wolfe
 - [Wild Swans](https://www.goodreads.com/book/show/1848.Wild_Swans) by Jung Chang
 
+## tools
+- [Obsidian](https://obsidian.md/) for note-taking
+- [Cappuccino](http://cappuccino.fm/) for hearing your friends remotely
+
 ---
 
 ## queue
