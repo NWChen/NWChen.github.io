@@ -2,6 +2,19 @@
 title: Jessie's baked creations!
 ---
 
+# Carrot cake
+## 02/03/21
+
+![](/img/bakes/17.jpg)
+
+---
+
+# Cheesecake
+## 02/03/21
+![](/img/bakes/16.jpg)
+
+---
+
 # More-whole-wheat bread
 ## 01/30/21
 
