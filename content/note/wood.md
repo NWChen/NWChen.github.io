@@ -1,5 +1,5 @@
 ---
-title: Hand tools and spare time
+title: Building wooden things with hand tools
 date: 2021-01-11
 categories:
   - creative
