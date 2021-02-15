@@ -61,6 +61,7 @@ title: Jessie's baked creations!
 
 ---
 
+# Challah bread
 ## 01/06/21
 ![](/img/bakes/2.jpg)
 
@@ -68,6 +69,7 @@ title: Jessie's baked creations!
 
 ---
 
+# Challah bread
 ## 01/03/21
 
 ![](/img/bakes/8.jpg)
@@ -84,6 +86,7 @@ title: Jessie's baked creations!
 
 ---
 
+# Coconut raisin brioche
 ## 12/29/20
 
 ![](/img/bakes/6.jpg)
