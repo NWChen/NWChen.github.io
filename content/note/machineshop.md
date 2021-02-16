@@ -5,18 +5,14 @@ categories:
   - creative
 ---
 
-[<img src="https://www.columbia.edu/content/sites/default/files/styles/cu_crop/public/content/Innovation/maker-space.jpg?itok=ROGav5N3" style="width: 480px;">]()
+[<img src="https://www.columbia.edu/content/sites/default/files/styles/cu_crop/public/content/Innovation/maker-space.jpg?itok=ROGav5N3" style="width: 640px;">]()
 
-When I was in college, I spent a year on and off [building things with my hands for fun](http://neilchen.co/post/2017/01/01/building-a-t-shirt-shooting-robot/). The way I did that was generally by using the tools in one of two spaces:
+When I was in college, I spent a year on and off [building things with my hands for fun](http://neilchen.co/post/2017/01/01/building-a-t-shirt-shooting-robot/). The way I did that was generally by misappropriating study time and instead spending it in the `machine shop`. It's a place where:
 
-1. the Mechanical Engineering department's `machine shop`, which contains all the _serious_ equipment: CNC mills, bandsaws, a big laser cutter
-2. the campus `makerspace`, which contains all the _digital fabrication_ equipment: 3D printers, vinyl cutters, a small laser cutter
+1. people build different things
+2. people see each other build different things, and ask what they're working on & why they're working on it
+3. people broadcast feedback and advice on the things other people were building
 
-Both communities were special to me because they shared three features:
+The `machine shop` and the `makerspace` were both communities uniquely tailored to encouraging __friendcatching__ in the lowest-resistance way. You can imagine the value of low-resistance socialization when the social group in question is a dozen engineering students, each with a slightly awkward social manner.
 
-1. people building things
-2. people seeing each other build things, and asking what they were building and why they were building it like that
-3. people broadcasting feedback and advice on the things other people were building
-
-The `machine shop` and the `makerspace` were both communities uniquely tailored to encouraging __friendcatching__ in the lowest-resistance way. (You can imagine the value of low-resistance socialization when the social group in question is a dozen engineering students, all of them with a slightly awkward social manner).
 
