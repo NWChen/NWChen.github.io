@@ -13,6 +13,6 @@ When I was in college, I spent a year on and off [building things with my hands 
 2. people see each other build different things, and ask what they're working on & why they're working on it
 3. people broadcast feedback and advice on the things other people were building
 
-The `machine shop` and the `makerspace` were both communities uniquely tailored to encouraging __friendcatching__ in the lowest-resistance way. You can imagine the value of low-resistance socialization when the social group in question is a dozen engineering students, each with a slightly awkward social manner.
+The `machine shop` was a community uniquely tailored to encouraging __friendcatching__ in the lowest-resistance way. You can imagine the value of low-resistance socialization when the social group in question is a dozen engineering students, each with a slightly awkward social manner.
 
 
