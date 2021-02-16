@@ -1,5 +1,5 @@
 ---
-title: vim-repl workflow
+title: A REPL in Vim
 date: 2021-01-16
 categories:
   - analytical

@@ -32,11 +32,11 @@
     </item>
     
     <item>
-      <title>vim-repl workflow</title>
-      <link>/post/2021/01/16/vim-repl-workflow/</link>
+      <title>A REPL in Vim</title>
+      <link>/post/2021/01/16/a-repl-in-vim/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021/01/16/vim-repl-workflow/</guid>
+      <guid>/post/2021/01/16/a-repl-in-vim/</guid>
       <description>One of the tools I wish I&amp;rsquo;d known about sooner is vim-repl. It&amp;rsquo;s a vim plugin that opens an interactive REPL, configurable based on source file type (.py, .hs, .scala, &amp;hellip;)
  A REPL, or read-eval-print-loop, lets you input, evaluate, and output expressions without having to (for example) compile an entire program.
  I used to run this workflow using SLIME and tmux. Before that, if I wanted a development environment with a tight feedback loop between writing &amp;amp; evaluating code, I defaulted to a Jupyter notebook &amp;ndash; which, for this purpose, is probably both the wrong tool to use and often (for me) unsustainable.</description>
