@@ -19,9 +19,9 @@ menu:
     - name: Recs
       url: "recs/"
       weight: 2
-#    - name: About
-#      url: "about/"
-#      weight: 2
+    - name: About
+      url: "about/"
+      weight: 3
 #    - name: Categories
 #      url: "categories/"
 #      weight: 3
