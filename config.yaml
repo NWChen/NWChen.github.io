@@ -16,7 +16,7 @@ menu:
     - name: Home
       url: ""
       weight: 1
-     - name: Recs
+    - name: Recs
       url: "recs/"
       weight: 2
 #    - name: About

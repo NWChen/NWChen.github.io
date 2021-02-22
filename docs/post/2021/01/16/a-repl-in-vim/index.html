@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>A REPL in Vim | Neil Chen</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66364526-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-66364526-1');
+	</script>
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/recs/">Recs</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">A REPL in Vim</span></h1>
+
+<h2 class="date">2021/01/16</h2>
+</div>
+
+<main>
+<p>One of the tools I wish I&rsquo;d known about sooner is <a href="https://github.com/sillybun/vim-repl">vim-repl</a>. It&rsquo;s a <code>vim</code> plugin that opens an interactive REPL, configurable based on source file type (<code>.py</code>, <code>.hs</code>, <code>.scala</code>, &hellip;)</p>
+<blockquote>
+<p>A REPL, or read-eval-print-loop, lets you input, evaluate, and output expressions without having to (for example) compile an entire program.</p>
+</blockquote>
+<p>I used to run this workflow using <a href="https://github.com/jpalardy/vim-slime">SLIME</a> and <code>tmux</code>. Before that, if I wanted a development environment with a tight feedback loop between writing &amp; evaluating code, I defaulted to a Jupyter notebook &ndash; which, for this purpose, is probably both the wrong tool to use and often (for me) <a href="https://medium.com/@_orcaman/jupyter-notebook-is-the-cancer-of-ml-engineering-70b98685ee71">unsustainable</a>.</p>
+<p>I can launch this environment quickly thanks to some keybindings: <code>,r</code> to open the REPL, and <code>,w</code> to send code over. Here&rsquo;s <code>vim-repl</code> in action:</p>
+
+
+<script id="asciicast-klutuZxLwIWFb8zd4Mxx4oaBs" src="https://asciinema.org/a/klutuZxLwIWFb8zd4Mxx4oaBs.js" async></script>
+
+
+
+</main>
+
+  <footer>
+  
+  
+  <hr/>
+  <a href="https://github.com/nwchen">Github</a> | <a href="https://www.linkedin.com/in/neilwchen/">LinkedIn</a>
+  
+  </footer>
+  </body>
+</html>
+

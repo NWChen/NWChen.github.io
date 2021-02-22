@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Neil Chen</title>
+    <link>/</link>
+    <description>Recent content in Home on Neil Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Friendcatching in the machine shop</title>
+      <link>/note/2021/02/16/friendcatching-in-the-machine-shop/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/note/2021/02/16/friendcatching-in-the-machine-shop/</guid>
+      <description>When I was in college, I spent a year on and off building things with my hands for fun. The way I did that was generally by misappropriating study time and instead spending it in the machine shop. It&amp;rsquo;s a place where:
+ people build different things people see each other build different things, and ask what they&amp;rsquo;re working on &amp;amp; why they&amp;rsquo;re working on it people broadcast feedback and advice on the things other people were building  The machine shop was a community uniquely tailored to encouraging friendcatching in the lowest-resistance way.</description>
+    </item>
+    
+    <item>
+      <title>High-quality grappling content</title>
+      <link>/note/2021/02/14/high-quality-grappling-content/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/note/2021/02/14/high-quality-grappling-content/</guid>
+      <description>This is a collection of grappling (jiu-jitsu/wrestling/judo) content that seems consistently high signal-to-noise to me.
+  Ayrshire Grappler - text-only commentary of famous jiu-jitsu matches, with east coast hip-hop classics in the background 
+  The Grapple Club - technique tutorials by prominent modern competitors 
+  William Abreu - stand-up/takedown technique 
+  Obviously practicing more grappling is the best way to absorb this information, but during quarantine I&amp;rsquo;m enjoying these channels.</description>
+    </item>
+    
+    <item>
+      <title>Pressure and failure</title>
+      <link>/post/2021/02/02/pressure-and-failure/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/02/02/pressure-and-failure/</guid>
+      <description>This is a running list of some of my favorite accounts of personal rejection or failure (narrowly: in school and in tech).
+ Ian Goodfellow Ian Goodfellow&amp;rsquo;s name is now roughly synonymous with deep learning, but he describes plenty of personal risks, subsequent failures, and post-facto views on them:
+ I once applied for a summer internship with a Stanford professor. My transcript was included in my application. He replied “Why do you have an A in my class?</description>
+    </item>
+    
+    <item>
+      <title>A REPL in Vim</title>
+      <link>/post/2021/01/16/a-repl-in-vim/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/01/16/a-repl-in-vim/</guid>
+      <description>One of the tools I wish I&amp;rsquo;d known about sooner is vim-repl. It&amp;rsquo;s a vim plugin that opens an interactive REPL, configurable based on source file type (.py, .hs, .scala, &amp;hellip;)
+ A REPL, or read-eval-print-loop, lets you input, evaluate, and output expressions without having to (for example) compile an entire program.
+ I used to run this workflow using SLIME and tmux. Before that, if I wanted a development environment with a tight feedback loop between writing &amp;amp; evaluating code, I defaulted to a Jupyter notebook &amp;ndash; which, for this purpose, is probably both the wrong tool to use and often (for me) unsustainable.</description>
+    </item>
+    
+    <item>
+      <title>Building wooden things with hand tools</title>
+      <link>/note/2021/01/11/building-wooden-things-with-hand-tools/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/note/2021/01/11/building-wooden-things-with-hand-tools/</guid>
+      <description>If you, with no prior training, picked up a 1/2&amp;quot; chisel, a handsaw, a rubber mallet, and a Home Depot bench plane, you&amp;rsquo;d arrive at a reasonable approximation of my 2020.
+Workbench This is a hastily-made workbench/work-from-home standing desk. The legs are 3.5&amp;quot; douglas fir and joined via mortise-and-tenon. The top surface is 1.5&amp;quot; thick fir. Half-finished:
+
+To handle racking, there are three chunky sections of pine joined by cross laps to the legs of the bench.</description>
+    </item>
+    
+    <item>
+      <title>Genki Sudo</title>
+      <link>/note/2021/01/07/genki-sudo/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/note/2021/01/07/genki-sudo/</guid>
+      <description>Genki Sudo is a member of the upper house of Japan&amp;rsquo;s bicameral legislature. Western folks like myself might have unwittingly encountered him via these 2000s music videos of his music group World Order.
+Before all this, Sudo was a professional mixed martial artist. He fought in several promotions, but in every arena he introduced himself idiosyncratically. Sudo choreographed WWE-like entrances that included:
+ himself doing the robot with a KFC bucket hat, himself as a baseball player, himself in Samurai garb,  and ended every fight carrying the flag of his motto, &amp;ldquo;We Are All One&amp;rdquo;:</description>
+    </item>
+    
+    <item>
+      <title>A paper on soft-muscle actuation</title>
+      <link>/post/2020/06/15/a-paper-on-soft-muscle-actuation/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/06/15/a-paper-on-soft-muscle-actuation/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s published! For several months in college I worked with Professor Hod Lipson&amp;rsquo;s &lt;a href=&#34;https://www.creativemachineslab.com/&#34;&gt;Creative Machines Lab&lt;/a&gt; on building a &amp;ldquo;soft actuator&amp;rdquo;. The goal was to build an electrically-powered &amp;ldquo;muscle&amp;rdquo; geometry out of silicone; our approach was to drive contraction and expansion thermally.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analyzing 1.5 years of diary entries</title>
+      <link>/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/06/24/analyzing-1.5-years-of-diary-entries/</guid>
+      <description>&lt;p&gt;I wrote 39,000+ words across 223 entries in my diary in the last 1.5 years. Could I learn more about my mood/emotions by analyzing my diary? I wrote some Python to find out.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building a T-shirt shooting robot</title>
+      <link>/post/2017/01/01/building-a-t-shirt-shooting-robot/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/01/01/building-a-t-shirt-shooting-robot/</guid>
+      <description>I have an amateur and casual interest in robotics, from mechanical design to grasping and manipulation. In my first year of college, I played with the idea of building a 100lb. t-shirt shooting robot to drive around &amp;amp; eject shirts into crowds. We were very fortunate to get a bit of money from a student group on campus, access to the Columbia University MakerSpace, and a few dumpsters with nice DC motors and aluminum extrusion sitting around.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&amp;rsquo;m from Queens, NY. I&amp;rsquo;m interested in MMA, robotics, and software systems.</description>
+    </item>
+    
+    <item>
+      <title>Jessie&#39;s baked creations!</title>
+      <link>/bakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bakes/</guid>
+      <description>Carrot cake 02/03/21  Cheesecake 02/03/21  More-whole-wheat bread 01/30/21 Walnut &amp;amp; cinnamon raisin bread 01/30/21  Lemon, blueberry, and greek yogurt whole wheat almond cake 01/24/21  Banana bread 01/23/21  Lemon meringue cupcakes 01/16/21  Milk bread 01/10/21  Challah bread 01/06/21  Challah bread 01/03/21  Sponge cake 12/31/20  Coconut raisin brioche 12/29/20 </description>
+    </item>
+    
+    <item>
+      <title>Recs</title>
+      <link>/recs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/recs/</guid>
+      <description>blogs  Allison Bishop Chip Huyen Dan Luu Dan Wang  books  Pimp by Iceberg Slim Skunk Works by Ben Rich The Right Stuff by Tom Wolfe Wild Swans by Jung Chang  tools  Obsidian for note-taking Cappuccino for hearing your friends remotely   queue Content recommended to me.
+ Know My Name by Chanel Miller The Autobiography of Malcolm X by Malcolm X  </description>
+    </item>
+    
+  </channel>
+</rss>
