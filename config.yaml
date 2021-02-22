@@ -16,12 +16,12 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: About
-      url: "about/"
-      weight: 2
-    - name: Recs
+     - name: Recs
       url: "recs/"
-      weight: 3
+      weight: 2
+#    - name: About
+#      url: "about/"
+#      weight: 2
 #    - name: Categories
 #      url: "categories/"
 #      weight: 3
