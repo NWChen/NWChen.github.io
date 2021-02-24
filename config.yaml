@@ -32,7 +32,7 @@ menu:
 #      url: "index.xml"
 
 params:
-  description: "Currently reading: __[A Small Corner of Hell](https://www.goodreads.com/book/show/113440.A_Small_Corner_of_Hell), Anna Politkovskaya__"
+  description: ""
   footer: "[Github](https://github.com/nwchen) | [LinkedIn](https://www.linkedin.com/in/neilwchen/)"
 
 markup:

@@ -6,4 +6,4 @@ title: Home
 
 # Neil Chen 
 
-
+Currently reading: __[A Small Corner of Hell](https://www.goodreads.com/book/show/113440.A_Small_Corner_of_Hell), Anna Politkovskaya__
