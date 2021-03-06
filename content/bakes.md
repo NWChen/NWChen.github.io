@@ -2,6 +2,12 @@
 title: Jessie's baked creations!
 ---
 
+## 03/06/21
+
+![](/img/bakes/18.jpg)
+
+---
+
 # Carrot cake
 ## 02/03/21
 
